@@ -124,3 +124,37 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+.contact-info {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info h1 {
+    color: darkturquoise;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 1.1em;
+}
+
+.contact-info h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: darkturquoise;
+}
+
+.contact-info .form-group label {
+    font-weight: bold;
+}
+
+.contact-info .btn-primary {
+    background-color: darkturquoise;
+    border: none;
+}
+
+.contact-info .btn-primary:hover {
+    background-color: #00b5ad;
+}
